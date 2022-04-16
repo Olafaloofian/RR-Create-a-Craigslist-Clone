@@ -2,3 +2,17 @@
 You will be building a light craigslist clone!
 
 Don't worry, there doesn't need to be a full suite of functionality. We're just going to try and recreate an image for now.
+
+App
+    Sidebar
+        Filtering
+            Checkboxes
+            Miles From
+            Price
+            Make and Model
+    Main
+        Search area
+            pagination
+            layout
+        List of listings
+            Card
